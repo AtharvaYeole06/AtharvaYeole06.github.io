@@ -3,13 +3,15 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
+first_name: Atharva
 middle_name: R.
-last_name: Name
+last_name: Yeole
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  You can contact me on 
+  email: atharvarajesyeole@gmail.com
+  linkedin: https://www.linkedin.com/in/atharva-yeole-79b255377/
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  I am a Computer Science undergraduate at the Manipal Institute of Technology (MIT Manipal) with a strong interest in research and entrepreneurship. My academic focus lies in exploring innovative technological solutions and understanding how cutting-edge research can be translated into impactful real-world applications.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
