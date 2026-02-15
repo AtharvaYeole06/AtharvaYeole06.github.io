@@ -1,5 +1,5 @@
 collections:
-  news:
-    output: false
-  teachings:
-    output: false
+  books:
+    output: true
+  projects:
+    output: true
