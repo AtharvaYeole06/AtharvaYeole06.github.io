@@ -1,5 +1,7 @@
-collections:
-  books:
-    output: true
-  projects:
-    output: true
+# Updated profile section in _config.yml
+profile:
+  picture: 
+    align: left
+    settings:
+      scaling: auto
+      border: none
