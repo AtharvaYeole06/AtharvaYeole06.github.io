@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Atharva website"
+site_theme               : "contrast" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "Atharva Yeole | Academic Portfolio"
 title_separator          : "-"
 name                     : &name "Atharva yeole"
 description              : &description "My description"   # Update this with a general description of your site, this is the default if not overridden by a page
