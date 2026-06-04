@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<a href="/assets/Atharva_CV.pdf" target="_blank">Download CV</a>
+<a href="/assets/CV.pdf" target="_blank">Download CV</a>
