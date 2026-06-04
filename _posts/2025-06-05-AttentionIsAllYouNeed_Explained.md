@@ -80,7 +80,7 @@ Finally, multiply the attention weights by V. Each token's output becomes a weig
 
 ### The attention score matrix
 
-![Attention Matrix](assets/AttentionMatrix.jpg)
+![Attention Matrix](/assets/AttentionMatrix.jpg)
 
 ## Multi-head attention(why one head is not enough)
 
@@ -100,6 +100,6 @@ Nobody tells each head what to learn. They figure it out through training. When 
 
 ## What one Transformer layer actually looks like
 
-![One Transformer layer](./assets/transformer-layer.svg)
+![One Transformer layer](/assets/transformer-layer.svg)
 
 *Based on Vaswani et al., "Attention Is All You Need," NeurIPS 2017.*
