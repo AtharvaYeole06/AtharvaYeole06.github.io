@@ -100,6 +100,6 @@ Nobody tells each head what to learn. They figure it out through training. When 
 
 ## What one Transformer layer actually looks like
 
-![One Transformer layer](/assets/transformer-layer.svg)
+![One Transformer layer](/assets/TransformerLayer.jpeg)
 
 *Based on Vaswani et al., "Attention Is All You Need," NeurIPS 2017.*
