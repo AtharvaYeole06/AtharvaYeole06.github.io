@@ -82,7 +82,7 @@ Finally, multiply the attention weights by V. Each token's output becomes a weig
 
 ![Attention Matrix](assets/AttentionMatrix.jpg)
 
-## 05 Multi-head attention(why one head is not enough)
+## Multi-head attention(why one head is not enough)
 
 A single attention head gives you one way of looking at the relationships in your sentence. But a sentence has multiple types of relationships happening simultaneously.
 
