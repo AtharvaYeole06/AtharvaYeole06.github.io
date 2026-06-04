@@ -15,24 +15,16 @@
 
 <div class="page__footer-follow">
   <ul class="social-icons">
-    {% if site.data.ui-text[site.locale].follow_text %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_text }}</strong></li>
-    {% endif %}
-    
+    <li><strong>Follow:</strong></li>
     {% if site.author.github %}
       <li><a href="https://github.com/{{ site.author.github }}" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     {% endif %}
-
     {% if site.author.linkedin %}
       <li><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
-    {% endif %}
-
-    {% if site.author.twitter %}
-      <li><a href="https://twitter.com/{{ site.author.twitter }}" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
     {% endif %}
   </ul>
 </div>
 
 <div class="page__footer-copyright">
-  &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.
+  &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. All rights reserved.
 </div>
