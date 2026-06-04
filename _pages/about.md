@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Hello there, I am Atharva"
+title: "Atharva Yeole"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# Atharva Here 👋
-
 I'm currently an undergraduate student studying **Computer Science and Engineering** at **MIT Manipal**.
 
 ### What I'm Up To
