@@ -9,7 +9,7 @@ tags:
 ---
 # Attention Is All You Need — A Proper Explanation
 
-**By Atharva Yeole | June 2026
+**By Atharva Yeole | June 2026 
 
 ---
 
@@ -43,7 +43,9 @@ Imagine you are in a group of 4 friends and someone asks a question. You do not 
 That scan is Q matching against K. The actual words each person would contribute to your answer is V. Your final response is the weighted mix.
 
 **Q (Query)** -> What am I looking for?
+
 **K (Key)** -> What do I advertise myself as?
+
 **V (Value)** -> What do I actually hand over?
 
 ### Where do Q, K, V actually come from?
@@ -53,7 +55,9 @@ This tripped me up early. Q, K, and V are not three different inputs. They all c
 X = token embeddings   (shape: seq_len × d_model)
 
 Q = X · W_Q
+
 K = X · W_K
+
 V = X · W_V
 
 Every token gets three versions of itself: a query version, a key version, and a value version. The network learns during training what these projections should look like. You never manually define what "a good key" is we use optimization function like gradient descent to figures it out.
