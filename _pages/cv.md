@@ -6,4 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<a href="/assets/CV.pdf" target="_blank">Download CV</a>
+<iframe src="/assets/CV.pdf" width="100%" height="900px" style="border:none;"></iframe>
+
+<p><a href="/assets/CV.pdf" download>Download CV</a></p>
